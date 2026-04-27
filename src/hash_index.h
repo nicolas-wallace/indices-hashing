@@ -72,7 +72,7 @@ void salvarDiretorio(const Diretorio& dir);
 void operacaoBUS(unsigned int x, const Diretorio& dir, ofstream& arqSaida);
 
 // ---------------------------------------------------------------------------
-// Protótipos — implementados pelo colega em operacoes.cpp
+// Protótipos — implementados em operacoes.cpp
 // ---------------------------------------------------------------------------
 
 /**
